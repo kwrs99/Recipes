@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-*Sugar
-*Eggs
-*Milk
-*Cocoa Powder
-*Flour
-*Butter
+- Sugar
+- Eggs
+- Milk
+- Cocoa Powder
+- Flour
+- Butter
 
 ## Instructions
 
-- In a large bowl, mix the eggs, melted butter, milk
+- In a large bowl, mix the eggs, melted butter, milk and sugar
