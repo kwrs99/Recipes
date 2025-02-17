@@ -7,3 +7,5 @@
 - Salt
 
 ## Instructions
+
+*Peel the avocados
